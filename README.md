@@ -1,3 +1,3 @@
 # Stehfyn.github.io
 ### Projects
-- [cs481](https://github.com/Stehfyn/cs481)
+- [cs481](https://Stehfyn.github.io/cs481/imgui.html)
