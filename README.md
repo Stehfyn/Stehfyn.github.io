@@ -1,3 +1,3 @@
 # Stehfyn.github.io
 ### Projects
-- [cs481](https://Stehfyn.github.io/cs481/)
+- [n-puzzle](https://Stehfyn.github.io/npuzzle/)
