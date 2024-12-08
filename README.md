@@ -1,5 +1,5 @@
-# Stehfyn.github.io
-#### Github [@Stehfyn](https://github.com/Stehfyn)
+
+### Github [@Stehfyn](https://github.com/Stehfyn)
 
 ### Projects
 - [n-puzzle](https://Stehfyn.github.io/npuzzle/) (Rust)
